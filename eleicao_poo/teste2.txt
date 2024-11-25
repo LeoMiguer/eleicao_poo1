@@ -1,0 +1,60 @@
+1. Quociente Eleitoral (QE): 18800,00
+
+2. Quociente Partidário (QP):
+   Partido 33: 1,37 cadeiras
+   Partido 34: 1,11 cadeiras
+   Partido 35: 2,73 cadeiras
+   Partido 30: 2,19 cadeiras
+   Partido 31: 1,72 cadeiras
+   Partido 32: 0,88 cadeiras
+
+3. Resumo:
+   Votos válidos: 188000
+   Votos nulos: 6000
+   Votos em branco: 6000
+
+4. Total de votos: 200000
+
+5. Votos em branco: 6000 (3,00%)
+
+6. Votos nulos: 6000 (3,00%)
+
+7. Votos válidos: 188000 (94,00%)
+
+8. Votos totais e percentuais por legenda:
+   Partido 33: 25838 (12,92%)
+   Partido 34: 20890 (10,45%)
+   Partido 35: 51345 (25,67%)
+   Partido 30: 41107 (20,55%)
+   Partido 31: 32283 (16,14%)
+   Partido 32: 16537 (8,27%)
+
+9. Lista dos eleitos:
+   Candidato 33594 com 10377 votos
+   Candidato 34177 com 10982 votos
+   Candidato 35166 com 22811 votos
+   Candidato 35166 com 22811 votos
+   Candidato 30399 com 10787 votos
+   Candidato 30399 com 10787 votos
+   Candidato 31127 com 14822 votos
+   Outros Canditados:
+   Candidato 35309 com 15036 votos
+   Candidato 30587 com 9505 votos
+   Candidato 33918 com 8210 votos
+   Candidato 30456 com 8076 votos
+   Candidato 35354 com 7673 votos
+   Candidato 34564 com 6505 votos
+   Candidato 30199 com 6453 votos
+   Candidato 30417 com 6286 votos
+   Candidato 31015 com 6119 votos
+   Candidato 32908 com 5904 votos
+   Candidato 31835 com 5835 votos
+   Candidato 31031 com 5507 votos
+   Candidato 35315 com 5372 votos
+   Candidato 33597 com 5135 votos
+   Candidato 32035 com 4455 votos
+   Candidato 32780 com 3999 votos
+   Candidato 34524 com 3403 votos
+   Candidato 32483 com 2179 votos
+   Candidato 33826 com 2116 votos
+   Candidato 35045 com 453 votos
